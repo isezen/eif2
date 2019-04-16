@@ -26,5 +26,5 @@ setup(
     description='Extended Isolation Forest for anomaly detection',
     long_description=read('README.md'),
     url='https://github.com/sahandha/eif',
-    install_requires=["numpy"],
+    install_requires=["numpy", "joblib"],
 )

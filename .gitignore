@@ -8,3 +8,4 @@ paper/latex.template
 build/
 dist/
 eif.egg-info/
+.DS_Store
